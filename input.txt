@@ -1,0 +1,3 @@
+This is simple text file,
+created to implement the 
+file reading using node.js
